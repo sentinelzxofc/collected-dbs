@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sentinelzxofc/collected-dbs/main/assets/logo.png" alt="Collected-DBs Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/sentinelzxofc/collected-dbs/logo.png" alt="Collected-DBs Logo" width="200"/>
 </p>
 
 <h1 align="center">Collected-DBs</h1>
