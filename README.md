@@ -60,7 +60,7 @@ python main.py
 5. Quando encontrar exposições, use a opção 2 para baixar os arquivos
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sentinelzxofc/collected-dbs/main/assets/screenshot.png" alt="Screenshot" width="600"/>
+  <img src="print1.png" alt="Screenshot" width="600"/>
 </p>
 
 ## 🔧 Configuração de Proxy
